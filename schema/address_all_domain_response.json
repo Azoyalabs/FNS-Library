@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AddressAllDomainResponse",
+  "type": "object",
+  "required": [
+    "domains"
+  ],
+  "properties": {
+    "domains": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

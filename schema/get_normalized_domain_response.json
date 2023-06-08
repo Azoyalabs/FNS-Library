@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "GetNormalizedDomainResponse",
+  "type": "object",
+  "required": [
+    "normalization_successful",
+    "normalized_domain"
+  ],
+  "properties": {
+    "normalization_successful": {
+      "type": "boolean"
+    },
+    "normalized_domain": {
+      "type": "string"
+    }
+  }
+}
