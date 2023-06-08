@@ -13,3 +13,5 @@ Contracts for the FNS controller are deployed at:
 - [Testnet](https://fetchstation.azoyalabs.com/dorado/explorer/contracts/fetch15hq5u4susv7d064llmupeyevx6hmskkc3p8zvt8rwn0lj02yt72s88skrf/)
 
 
+Docs can be access on [our dedicated docs website.](https://docs.azoyalabs.com/fetch-name-service/main)
+
